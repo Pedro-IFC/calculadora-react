@@ -22,7 +22,7 @@ Instalação
     
     bashCopy code
     
-    `git clone https://github.com/seu-usuario/calculadora-react.git`
+    `https://github.com/Pedro-IFC/calculadora-react.git`
     
 2.  Navegue até o diretório do projeto:
     
@@ -51,14 +51,3 @@ Como usar
 3.  Use os botões da calculadora para inserir os números e operadores desejados.
     
 4.  Clique no botão "=" para calcular o resultado.
-    
-
-Contribuindo
-------------
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues para reportar bugs, sugestões de novas funcionalidades ou para enviar pull requests com melhorias no código.
-
-Licença
--------
-
-Este projeto está licenciado sob a Licença MIT.
