@@ -1,0 +1,22 @@
+:root{
+    --bg-button: #f0f0f0;
+    --border-button: solid 1px #868686
+}
+.Button{
+    font-size: 1.4em;
+    background-color: var(--bg-button);
+    border: var(--border-button);
+    outline: none;
+    transition: all .3s;
+    cursor: pointer;
+}
+.Button:active{
+    background-color: #ccc;
+}
+.Button.operation{
+    background-color: #fa8231;
+    color: #FFF;
+}
+.Button.operation:active{
+    background-color: #ce5302;
+}

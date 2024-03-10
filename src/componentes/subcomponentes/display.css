@@ -1,0 +1,12 @@
+.Display{
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: left;
+    padding: 0px 20px;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    font-size: 2.1em;
+    overflow: hidden;
+}

@@ -1,0 +1,17 @@
+.Calculadora{
+    height: 320px;
+    width: 235px;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: left;
+    align-items: flex-start;
+}
+.Calculadora >*{
+    width: 25%;
+    height: calc(100%/6);
+}
+.Calculadora >.twocol{
+    width: 50%;
+}
